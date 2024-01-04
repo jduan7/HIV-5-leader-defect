@@ -1,4 +1,4 @@
-# HIV-5-leader-defect
+# HIV-5L-defect
 
 all del.R:
 - This script identifies all deletions from the input fasta file named "5PSD_master_040422_tilda_uniq.fas" (containing unique and aligned 5'L-defective sequences), and then outputs the results to "5PSD_master_041922_tilda_uniq_allDel_cleared.xlsx".
